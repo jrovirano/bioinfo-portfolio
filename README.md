@@ -1,4 +1,3 @@
-# bioinfo-portfolio
 # Bioinformatics Portfolio
 
 MSc student in Human Precision Genomics with a background in microbiology
